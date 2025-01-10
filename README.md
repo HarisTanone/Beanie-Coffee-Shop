@@ -105,8 +105,6 @@ Filament admin panel dapat diakses di:
 ```
 http://localhost:8000/admin
 ```
-dengan menggunakan ``` email: admin@admin.com dan password: admin ```
-
 ### Storage
 Pastikan folder storage sudah ter-link dengan public:
 ```bash
